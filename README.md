@@ -5,10 +5,31 @@
 - [Roadmap to Become a Generative AI Expert for Beginners in 2025](https://www.youtube.com/shorts/39zbC_PrNQs)
 
 ### 📚 Courses
+- Krish Naik's Youtube Videos
 - [Microsoft's Generative AI for Beginners](https://github.com/microsoft/generative-ai-for-beginners)
 - [Hugging Face Learning Hub Courses](./huggingface-courses.md)
 - [Generative AI with Large Language Models (Coursera)](https://www.coursera.org/learn/generative-ai-with-llms/home/module/1)
 - [LangChain for LLM Application Development (DeepLearning.AI)](https://www.deeplearning.ai/short-courses/langchain-for-llm-application-development/)
+- [ChatGPT Prompt Engineering for Developers](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/)
+---
+## Short Notes
+### Generative AI
+- Building Generative AI Applications
+- Frameworks -> LangChain, OpenAI's, Google's
+- Fine Tuning LLMs -> QLORA, LORA
+- RAGs
+- VectorDB
+
+### Agentic AI
+- Building AI Agents
+- Building Agentic AI Applications
+- Frameworks -> Langgraph, Langflow, n8n, VAPI, Livekit, CrewAI, Agno, Google, Autogen
+- Protocols -> Model Context Protocol, Google A2A Protocol
+
+### Vibe Coding with AI Code Editors
+- Windsurf, cursor, lovable, v0 (vZero), bolt, replit
+
+### Prompt Engineering
 
 ---
 # 🧭 GenAI Roadmap
