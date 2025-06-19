@@ -6,6 +6,7 @@
 
 ### 📚 Courses
 - [Microsoft's Generative AI for Beginners](https://github.com/microsoft/generative-ai-for-beginners)
+- [Hugging Face Learning Hub Courses](./huggingface-courses.md)
 - [Generative AI with Large Language Models (Coursera)](https://www.coursera.org/learn/generative-ai-with-llms/home/module/1)
 - [LangChain for LLM Application Development (DeepLearning.AI)](https://www.deeplearning.ai/short-courses/langchain-for-llm-application-development/)
 
