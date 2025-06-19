@@ -1,3 +1,15 @@
+## 🔗 Resources
+
+### 🎥 YouTube Links
+- [Right Way To Learn AI In 2025](https://www.youtube.com/watch?v=TYEqenKrbaM)
+- [Roadmap to Become a Generative AI Expert for Beginners in 2025](https://www.youtube.com/shorts/39zbC_PrNQs)
+
+### 📚 Courses
+- [Microsoft's Generative AI for Beginners](https://github.com/microsoft/generative-ai-for-beginners)
+- [Generative AI with Large Language Models (Coursera)](https://www.coursera.org/learn/generative-ai-with-llms/home/module/1)
+- [LangChain for LLM Application Development (DeepLearning.AI)](https://www.deeplearning.ai/short-courses/langchain-for-llm-application-development/)
+
+---
 # 🧭 GenAI Roadmap
 
 A comprehensive, project-based journey through the world of Generative AI, from foundational concepts to full-stack deployment.
