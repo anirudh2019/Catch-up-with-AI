@@ -12,7 +12,7 @@
 - [Generative AI with Large Language Models (Coursera)](https://www.coursera.org/learn/generative-ai-with-llms/home/module/1)
 - [LangChain for LLM Application Development (DeepLearning.AI)](https://www.deeplearning.ai/short-courses/langchain-for-llm-application-development/)
 - [ChatGPT Prompt Engineering for Developers (DeepLearning.AI)](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/)
-- LLMOps: [LLMOps: Building Real-World Applications With Large Language Models (Udacity](https://www.udacity.com/course/building-real-world-applications-with-large-language-models--cd13455)
+- LLMOps: [LLMOps: Building Real-World Applications With Large Language Models (Udacity)](https://www.udacity.com/course/building-real-world-applications-with-large-language-models--cd13455)
 ---
 ## Short Notes
 ### Generative AI
