@@ -1,5 +1,10 @@
 ## 🔗 Resources
 
+### Projects
+- [Projects You Should Build For Gen AI And Agentic AI Roles](https://www.youtube.com/watch?v=abppwF3MCG0)
+- [Best AI / ML Roadmap 2025 with Google AI Engineer | Salaries, Resources, Projects](https://www.youtube.com/watch?v=V5YFbkilI7A)
+- [Clone Projects won't get you Hired in 2025! | AI, DeFi, Web 3 and Full stack Project Ideas](https://www.youtube.com/watch?v=pXJ2qoGU88g)
+
 ### 🎥 YouTube Links
 - [Right Way To Learn AI In 2025](https://www.youtube.com/watch?v=TYEqenKrbaM)
 - [Roadmap to Become a Generative AI Expert for Beginners in 2025](https://www.youtube.com/shorts/39zbC_PrNQs)
