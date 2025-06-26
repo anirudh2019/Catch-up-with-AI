@@ -1,6 +1,7 @@
 ## 🔗 Resources
 
 ### Projects
+- [Day 1- End To End Agentic AI Project With LLMOPS by Krish Naik Youtube](https://www.youtube.com/watch?v=ghnFmeY4bO4)
 - [Projects You Should Build For Gen AI And Agentic AI Roles](https://www.youtube.com/watch?v=abppwF3MCG0)
 - [Best AI / ML Roadmap 2025 with Google AI Engineer | Salaries, Resources, Projects](https://www.youtube.com/watch?v=V5YFbkilI7A)
 - [Clone Projects won't get you Hired in 2025! | AI, DeFi, Web 3 and Full stack Project Ideas](https://www.youtube.com/watch?v=pXJ2qoGU88g)
