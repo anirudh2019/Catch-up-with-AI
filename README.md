@@ -1,5 +1,7 @@
 ## 🔗 Resources
 
+### [Vibe Coding Guide](./vibe-coding.md)
+
 ### Projects
 - [Day 1- End To End Agentic AI Project With LLMOPS by Krish Naik Youtube](https://www.youtube.com/watch?v=ghnFmeY4bO4)
 - [Projects You Should Build For Gen AI And Agentic AI Roles](https://www.youtube.com/watch?v=abppwF3MCG0)
@@ -33,9 +35,6 @@
 - Building Agentic AI Applications
 - Frameworks -> Langgraph, Langflow, n8n, VAPI, Livekit, CrewAI, Agno, Google, Autogen
 - Protocols -> Model Context Protocol, Google A2A Protocol
-
-### Vibe Coding with AI Code Editors
-- Windsurf, cursor, lovable, v0 (vZero), bolt, replit
 
 ### Prompt Engineering
 
