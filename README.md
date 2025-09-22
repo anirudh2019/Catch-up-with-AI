@@ -143,7 +143,7 @@ A comprehensive, project-based journey through the world of Generative AI, from 
 
 ---
 
-## 🔁 Phase 6 (MCP): Multi-Context Personalization  
+## 🔁 Phase 6 (MCP): Model Context Protocol  
 **Goal:** Personalize LLM behavior per user, domain, or app context  
 
 ---
